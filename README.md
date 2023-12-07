@@ -6,12 +6,12 @@
   <p align="center">
     <samp>
       <b>
-        Hi there <img src="https://github.com/gdicosimo/gdicosimo/assets/73568465/957118d3-3fe7-491a-863a-1ec760fe251d" alt="Handshake">
+        Hi there <img src="https://github.com/gdicosimo/gdicosimo/assets/73568465/6b8ccf0e-7eab-4999-8daf-7334a937a1de" width="16">
       <br>
         I'm Gonza, a passionate student.
       </b>
       <br>
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=15&pause=1000&color=30E8E5&center=true&vCenter=true&random=true&width=435&lines=I+code+in+a+minimalist+and+clean+way.;I+like+doing+scripts.;Exploring+the+beauty+of+learning." alt="Typing SVG" /></a>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=200&size=15&pause=1000&color=63F2BE&center=true&vCenter=true&random=false&width=435&lines=I+code+in+a+minimalist+and+clean+way.+;I+like+doing+scripts.;Exploring+the+beauty+of+learning." alt="Typing SVG" /></a>
       <br>
       <i>
         ~ Persevere and you will succeed ~
@@ -40,10 +40,10 @@
     </tr>
   </table>
 <!-- Contact Me -->
-<h2>Contact Me</h2><br>
+<h2></h2><br>
 <p align="center">
   <samp>
-    <b>Feel free to get in touch with me <img src="https://github.com/gdicosimo/gdicosimo/assets/73568465/a7d5f0c8-a603-47a9-b81e-e61d607605d7" alt="Handshake" width="32"></b>
+    <b>Feel free to get in touch with me. </b>
     <br><br>
     <a href="mailto:gonzalodicosimo@gmail.com">
       <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=grey" alt="Email">
