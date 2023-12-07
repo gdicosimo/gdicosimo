@@ -14,7 +14,7 @@
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=15&pause=1000&color=30E8E5&center=true&vCenter=true&random=true&width=435&lines=I+code+in+a+minimalist+and+clean+way.;I+like+doing+scripts.;Exploring+the+beauty+of+learning." alt="Typing SVG" /></a>
       <br>
       <b>
-        ~ Gonzalo, Dicosimo ~
+        ~ Persevere and you will succeed ~
       </b>
     </samp>
   </p>
