@@ -6,16 +6,16 @@
   <p align="center">
     <samp>
       <b>
-        Hi there! 
+        Hi there <img src="https://github.com/gdicosimo/gdicosimo/assets/73568465/957118d3-3fe7-491a-863a-1ec760fe251d" alt="Handshake">
       <br>
         I'm Gonza, a passionate student.
       </b>
       <br>
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=15&pause=1000&color=30E8E5&center=true&vCenter=true&random=true&width=435&lines=I+code+in+a+minimalist+and+clean+way.;I+like+doing+scripts.;Exploring+the+beauty+of+learning." alt="Typing SVG" /></a>
       <br>
-      <b>
+      <i>
         ~ Persevere and you will succeed ~
-      </b>
+      </i>
     </samp>
   </p>
 <p align="right"><strong><samp>」</samp></strong></p>
@@ -40,22 +40,24 @@
     </tr>
   </table>
 <!-- Contact Me -->
-<h2></h2><br>
+<h2>Contact Me</h2><br>
 <p align="center">
   <samp>
-    Feel free to get in touch with me
+    <b>Feel free to get in touch with me <img src="https://github.com/gdicosimo/gdicosimo/assets/73568465/a7d5f0c8-a603-47a9-b81e-e61d607605d7" alt="Handshake" width="32"></b>
     <br><br>
     <a href="mailto:gonzalodicosimo@gmail.com">
-      <img style="filter: grayscale(100%);" src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+      <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=grey" alt="Email">
     </a>
     <a href="https://linkedin.com/in/gonzalo-dicosimo">
-      <img style="filter: grayscale(100%);" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=grey" alt="LinkedIn">
     </a>
     <a href="https://github.com/gdicosimo">
-      <img style="filter: grayscale(100%);" src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+      <img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white&color=grey" alt="GitHub">
     </a>
   </samp>
 </p>
+
+
 </div>
 </details>
 <h2></h2><br>
